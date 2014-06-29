@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  12 JUN 2014 15:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  23 JUN 2014 23:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -509,71 +509,10 @@ Package caption Info: \@makecaption = \long macro:#1#2->\vspace {\abovecaptions
 kip }\begingroup \footnotesize \textbf {#1.}\enskip {#2}\par \endgroup .
 \c@ContinuedFloat=\count154
 Package caption Info: hyperref package is loaded.
-) (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrpage2.sty
-Package: scrpage2 2010/04/22 v2.5 LaTeX2e KOMA-Script package
-
-
-Package scrpage2 Warning: use of scrpage2 with unknown class.
-(scrpage2)                Please mail to markus.kohm@gmx.de, if headmarks
-(scrpage2)                are lower case without use of scrpage2.
-
-) (/usr/local/texlive/2013/texmf-dist/tex/latex/appendix/appendix.sty
-Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count155
-\c@@ppsavesec=\count156
-\c@@ppsaveapp=\count157
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
-\c@tracingmulticols=\count158
-\mult@box=\box34
-\multicol@leftmargin=\dimen139
-\c@unbalance=\count159
-\c@collectmore=\count160
-\doublecol@number=\count161
-\multicoltolerance=\count162
-\multicolpretolerance=\count163
-\full@width=\dimen140
-\page@free=\dimen141
-\premulticols=\dimen142
-\postmulticols=\dimen143
-\multicolsep=\skip61
-\multicolbaselineskip=\skip62
-\partial@page=\box35
-\last@line=\box36
-\mult@rightbox=\box37
-\mult@grightbox=\box38
-\mult@gfirstbox=\box39
-\mult@firstbox=\box40
-\@tempa=\box41
-\@tempa=\box42
-\@tempa=\box43
-\@tempa=\box44
-\@tempa=\box45
-\@tempa=\box46
-\@tempa=\box47
-\@tempa=\box48
-\@tempa=\box49
-\@tempa=\box50
-\@tempa=\box51
-\@tempa=\box52
-\@tempa=\box53
-\@tempa=\box54
-\@tempa=\box55
-\@tempa=\box56
-\@tempa=\box57
-\c@columnbadness=\count164
-\c@finalcolumnbadness=\count165
-\last@try=\dimen144
-\multicolovershoot=\dimen145
-\multicolundershoot=\dimen146
-\mult@nat@firstbox=\box58
-\colbreak@box=\box59
-\multicol@sort@counter=\count166
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/was/gensymb.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/was/gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
-) (./frontiers.aux)
+)
+(./frontiers.aux)
 \openout1 = `frontiers.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
@@ -591,27 +530,28 @@ LaTeX Font Info:    ... okay on input line 73.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
 LaTeX Font Info:    ... okay on input line 73.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 73.
- (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count167
-\scratchdimen=\dimen147
-\scratchbox=\box60
-\nofMPsegments=\count168
-\nofMParguments=\count169
+\scratchcounter=\count155
+\scratchdimen=\dimen139
+\scratchbox=\box34
+\nofMPsegments=\count156
+\nofMParguments=\count157
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count170
-\MPscratchDim=\dimen148
-\MPnumerator=\count171
-\makeMPintoPDFobject=\count172
+\MPscratchCnt=\count158
+\MPscratchDim=\dimen140
+\MPnumerator=\count159
+\makeMPintoPDFobject=\count160
 \everyMPtoPDFconversion=\toks37
 )
 Package crop Info: requested driver: `' on input line 73.
 Package crop Info: detected driver: `pdftex' on input line 73.
 Package crop Info: using `pdftex' graphics driver on input line 73.
-\AtBeginShipoutBox=\box61
+\AtBeginShipoutBox=\box35
 Package hyperref Info: Link coloring OFF on input line 73.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -619,7 +559,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count173
+\c@section@level=\count161
 )
 LaTeX Info: Redefining \ref on input line 73.
 LaTeX Info: Redefining \pageref on input line 73.
@@ -667,7 +607,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 86.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<./logo1.jpg, id=104, 30.9155pt x 29.3095pt>
+<./logo1.jpg, id=72, 30.9155pt x 29.3095pt>
 File: ./logo1.jpg Graphic file (type jpg)
  <use ./logo1.jpg>
 Package pdftex.def Info: ./logo1.jpg used on input line 86.
@@ -684,51 +624,14 @@ Underfull \hbox (badness 10000) detected at line 86
 []
  []
 
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 107.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 107.
-
-
-LaTeX Warning: Reference `Tab:01' on page 1 undefined on input line 107.
-
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 111.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 116.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <13> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 114.
-
-Package natbib Warning: Citation `Moser2008' on page 1 undefined on input line 
-120.
-
-
-Package natbib Warning: Citation `Gramann2010' on page 1 undefined on input lin
-e 120.
-
-
-Package natbib Warning: Citation `Zaehle2007' on page 1 undefined on input line
- 120.
-
-
-Package natbib Warning: Citation `Klatzky1998a' on page 1 undefined on input li
-ne 120.
-
-
-Package natbib Warning: Citation `Riecke2005' on page 1 undefined on input line
- 120.
-
-
-Package natbib Warning: Citation `Moser2008' on page 1 undefined on input line 
-120.
-
-
-Package natbib Warning: Citation `Gramann2011' on page 1 undefined on input lin
-e 120.
-
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 119.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 126.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <11> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 122.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 127.
 [1
 
 
@@ -753,366 +656,216 @@ Missing character: There is no ú in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <11> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 146.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <11> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 146.
+
+Overfull \vbox (2.0245pt too high) has occurred while \output is active []
 
 
-Package natbib Warning: Citation `Avraamides2004' on page 2 undefined on input 
-line 133.
-
-
-LaTeX Warning: Reference `tab:studyOverview' on page 2 undefined on input line 
-139.
-
-
-Package natbib Warning: Citation `Gramann2011' on page 2 undefined on input lin
-e 139.
-
-
-Package natbib Warning: Citation `Sigurdarson' on page 2 undefined on input lin
-e 139.
-
-
-Package natbib Warning: Citation `Goeke2013' on page 2 undefined on input line 
-141.
-
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
 [2]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Overfull \vbox (2.0245pt too high) has occurred while \output is active []
+
+
+[3]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <11.5> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 146.
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 150.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 198.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 220.
+
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Overfull \vbox (2.0245pt too high) has occurred while \output is active []
 
 
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 150.
+[4]
+Overfull \vbox (2.0245pt too high) has occurred while \output is active []
 
 
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 150.
+[5]
+Overfull \vbox (2.0245pt too high) has occurred while \output is active []
 
 
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 150.
+[6]
+Overfull \vbox (2.0245pt too high) has occurred while \output is active []
 
 
-Package natbib Warning: Citation `Goeke2013' on page 3 undefined on input line 
-150.
+[7]
+Overfull \vbox (2.0245pt too high) has occurred while \output is active []
 
 
-Package natbib Warning: Citation `Avraamides2004' on page 3 undefined on input 
-line 151.
+[8]
+Overfull \vbox (2.0245pt too high) has occurred while \output is active []
 
 
-Package natbib Warning: Citation `Goeke2013' on page 3 undefined on input line 
-155.
+[9] (./frontiers.bbl
+Overfull \vbox (2.0245pt too high) has occurred while \output is active []
 
 
-Package natbib Warning: Citation `Avraamides2004' on page 3 undefined on input 
-line 156.
+[10]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
 
-<figures/participants.pdf, id=128, 650.43pt x 505.89pt>
+Overfull \vbox (2.0245pt too high) has occurred while \output is active []
+
+
+[11]) <figures/participants.pdf, id=320, 650.43pt x 505.89pt>
 File: figures/participants.pdf Graphic file (type pdf)
 
 <use figures/participants.pdf>
-Package pdftex.def Info: figures/participants.pdf used on input line 183.
-(pdftex.def)             Requested size: 504.0pt x 392.00665pt.
+Package pdftex.def Info: figures/participants.pdf used on input line 483.
+(pdftex.def)             Requested size: 252.0pt x 195.99947pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[3] <figures/trajectories.pdf, id=137, 561.09625pt x 393.47pt>
+<figures/trajectories.pdf, id=321, 561.09625pt x 393.47pt>
 File: figures/trajectories.pdf Graphic file (type pdf)
 
 <use figures/trajectories.pdf>
-Package pdftex.def Info: figures/trajectories.pdf used on input line 193.
-(pdftex.def)             Requested size: 504.0pt x 353.42928pt.
+Package pdftex.def Info: figures/trajectories.pdf used on input line 491.
+(pdftex.def)             Requested size: 378.0pt x 265.07045pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[4 <./figures/participants.pdf>]
-<figures/QuestAnswers.pdf, id=157, 807.82216pt x 520.68533pt>
-File: figures/QuestAnswers.pdf Graphic file (type pdf)
-
-<use figures/QuestAnswers.pdf>
-Package pdftex.def Info: figures/QuestAnswers.pdf used on input line 202.
-(pdftex.def)             Requested size: 504.0pt x 324.8555pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Reference `app:quest' on page 5 undefined on input line 208.
-
-[5 <./figures/trajectories.pdf>]
-
-Package natbib Warning: Citation `Goeke2013' on page 6 undefined on input line 
-218.
-
-[6 <./figures/QuestAnswers.pdf>]
-<figures/stratGraphAll.pdf, id=189, 867.24pt x 505.89pt>
+<figures/stratGraphAll.pdf, id=322, 867.24pt x 505.89pt>
 File: figures/stratGraphAll.pdf Graphic file (type pdf)
 
 <use figures/stratGraphAll.pdf>
-Package pdftex.def Info: figures/stratGraphAll.pdf used on input line 234.
-(pdftex.def)             Requested size: 504.0pt x 294.00305pt.
+Package pdftex.def Info: figures/stratGraphAll.pdf used on input line 499.
+(pdftex.def)             Requested size: 378.0pt x 220.50037pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--246
 
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[7 <./figures/stratGraphAll.pdf>]
-<figures/histOverview.pdf, id=226, 593.21625pt x 392.46625pt>
+<figures/histOverview.pdf, id=323, 593.21625pt x 392.46625pt>
 File: figures/histOverview.pdf Graphic file (type pdf)
 
 <use figures/histOverview.pdf>
-Package pdftex.def Info: figures/histOverview.pdf used on input line 250.
-(pdftex.def)             Requested size: 504.0pt x 333.45415pt.
+Package pdftex.def Info: figures/histOverview.pdf used on input line 509.
+(pdftex.def)             Requested size: 378.0pt x 250.08762pt.
 
 
-Package caption Warning: \label without proper \caption on input line 286.
-See the caption package documentation for explanation.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Reference `tab:paramValues' on page 8 undefined on input line 26
-2.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--263
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8 <./figures/histOverview.pdf>]
-
-Package natbib Warning: Citation `Goeke2013' on page 9 undefined on input line 
-289.
-
-
-Package caption Warning: \label without proper \caption on input line 314.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `tab:LRT' on page 9 undefined on input line 289.
-
-
-Package natbib Warning: Citation `Efron1986' on page 9 undefined on input line 
-353.
-
-[9]
-
-LaTeX Warning: Reference `app:reasonableORs' on page 10 undefined on input line
- 365.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 359--366
-
- []
-
-<figures/odd_ratios.pdf, id=304, 562.1pt x 586.19pt>
+<figures/odd_ratios.pdf, id=324, 487.8225pt x 438.63875pt>
 File: figures/odd_ratios.pdf Graphic file (type pdf)
 
 <use figures/odd_ratios.pdf>
-Package pdftex.def Info: figures/odd_ratios.pdf used on input line 372.
-(pdftex.def)             Requested size: 504.0pt x 525.59833pt.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 377.
+Package pdftex.def Info: figures/odd_ratios.pdf used on input line 517.
+(pdftex.def)             Requested size: 378.0pt x 339.89465pt.
 
-
-LaTeX Warning: Reference `app:reasonableORs' on page 10 undefined on input line
- 377.
-
-
-LaTeX Warning: Reference `app:reasonableORs' on page 10 undefined on input line
- 377.
-
-
-LaTeX Warning: Float too large for page by 46.49832pt on input line 379.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 381--385
-
- []
-
-
-Package natbib Warning: Citation `Avraamides2004' on page 10 undefined on input
- line 391.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 387--393
-
- []
-
-[10] [11 <./figures/odd_ratios.pdf>]
-
-Package natbib Warning: Citation `Goeke2013' on page 12 undefined on input line
- 399.
-
-
-Package natbib Warning: Citation `Goeke2013' on page 12 undefined on input line
- 399.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 395--401
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 409--413
-
- []
-
-[12] <figures/stratGraphNP.pdf, id=468, 1084.05pt x 433.62pt>
+<figures/stratGraphNP.pdf, id=325, 1084.05pt x 433.62pt>
 File: figures/stratGraphNP.pdf Graphic file (type pdf)
 
 <use figures/stratGraphNP.pdf>
-Package pdftex.def Info: figures/stratGraphNP.pdf used on input line 416.
-(pdftex.def)             Requested size: 504.0pt x 201.59813pt.
+Package pdftex.def Info: figures/stratGraphNP.pdf used on input line 529.
+(pdftex.def)             Requested size: 378.0pt x 151.20026pt.
 
 
-Package natbib Warning: Citation `Goeke2013' on page 13 undefined on input line
- 433.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Package natbib Warning: Citation `Linn1985' on page 13 undefined on input line 
-435.
+Overfull \vbox (2.0245pt too high) has occurred while \output is active []
 
 
-Package natbib Warning: Citation `Voyer1995' on page 13 undefined on input line
- 435.
+[12 <./figures/participants.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Package natbib Warning: Citation `Moffat1998' on page 13 undefined on input lin
-e 435.
+Overfull \vbox (2.0245pt too high) has occurred while \output is active []
 
 
-Package natbib Warning: Citation `Dabbs1998' on page 13 undefined on input line
- 435.
+[13 <./figures/trajectories.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Package natbib Warning: Citation `Astur1998' on page 13 undefined on input line
- 435.
+Overfull \vbox (2.0245pt too high) has occurred while \output is active []
 
 
-Package natbib Warning: Citation `Parsons2004' on page 13 undefined on input li
-ne 435.
-
-[13 <./figures/stratGraphNP.pdf>]
-
-Package natbib Warning: Citation `Avraamides2004' on page 14 undefined on input
- line 439.
+[14 <./figures/stratGraphAll.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 441--443
-
- []
+Overfull \vbox (2.0245pt too high) has occurred while \output is active []
 
 
-Package natbib Warning: Citation `Avraamides2004' on page 14 undefined on input
- line 449.
-
-[14]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 475.
-
-No file frontiers.bbl.
-[15]
-
-Package natbib Warning: There were undefined citations.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 510.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 510.
-(./frontiers.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 510.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 510.
+[15 <./figures/histOverview.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Package rerunfilecheck Warning: File `frontiers.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `frontiers.out':
-(rerunfilecheck)             Before: 40A0AA6C5F8CDF3182BB2660D466CFD7;1670
-(rerunfilecheck)             After:  1860141960C2857F1EDE21866F750275;1231.
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.5pt have occurred.
+Overfull \vbox (2.0245pt too high) has occurred while \output is active []
 
 
-LaTeX Warning: There were undefined references.
+[16 <./figures/odd_ratios.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+Overfull \vbox (2.0245pt too high) has occurred while \output is active []
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 510.
+
+[17 <./figures/stratGraphNP.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 541.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 541.
+ (./frontiers.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 541.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 541.
+Package rerunfilecheck Info: File `frontiers.out' has not changed.
+(rerunfilecheck)             Checksum: F9BFC5EC084B5CF053099E64BBFBC57F;1095.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 541.
  ) 
 Here is how much of TeX's memory you used:
- 10559 strings out of 493315
- 154499 string characters out of 6137904
- 282523 words of memory out of 5000000
- 13722 multiletter control sequences out of 15000+600000
- 45716 words of font info for 97 fonts, out of 8000000 for 9000
+ 10146 strings out of 493315
+ 148830 string characters out of 6137904
+ 279066 words of memory out of 5000000
+ 13299 multiletter control sequences out of 15000+600000
+ 38210 words of font info for 69 fonts, out of 8000000 for 9000
  961 hyphenation exceptions out of 8191
- 49i,10n,38p,2153b,397s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{subsection.3.10} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.9} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.8} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.7} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.6} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.5} has been referenced but does not ex
-ist, replaced by a fixed one
-
-{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+ 49i,16n,38p,1487b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2013/texmf-dist/fonts/type1/public/dejavu/DejaVuSans.pfb></usr/local/tex
 live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texl
-ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texliv
-e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/
-2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/20
-13/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2013/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2013/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2013/texmf-dist/
-fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/ty
-pe1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw
-/helvetic/uhvr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvet
-ic/uhvro8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a
-.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr
-/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/tex
-live/2013/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/local/texlive/2013
-/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on frontiers.pdf (15 pages, 1442876 bytes).
+ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texliv
+e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/
+2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/201
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2013/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2013/texmf-
+dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2013/texmf-dist/fon
+ts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type
+1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/
+helvetic/uhvr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helveti
+c/uhvro8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.
+pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
+local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/local/tex
+live/2013/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on frontiers.pdf (17 pages, 1781685 bytes).
 PDF statistics:
- 591 PDF objects out of 1000 (max. 8388607)
- 457 compressed objects within 5 object streams
- 50 named destinations out of 1000 (max. 500000)
- 241 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 666 PDF objects out of 1000 (max. 8388607)
+ 534 compressed objects within 6 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 172 words of extra memory for PDF output out of 10000 (max. 10000000)
 
