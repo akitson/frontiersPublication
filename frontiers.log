@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  23 JUN 2014 23:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  21 JAN 2015 14:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -625,13 +625,13 @@ Underfull \hbox (badness 10000) detected at line 86
  []
 
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 116.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 110.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <13> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 119.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 113.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 126.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 120.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <11> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 127.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 121.
 [1
 
 
@@ -650,21 +650,14 @@ Missing character: There is no ú in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
 LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <11> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 146.
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 140.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <11> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 146.
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 140.
 
-Overfull \vbox (2.0245pt too high) has occurred while \output is active []
+Overfull \vbox (2.151pt too high) has occurred while \output is active []
 
-
-[2]
+ [2]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ú in font ptmr7t!
@@ -677,173 +670,161 @@ Missing character: There is no ú in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-
-Overfull \vbox (2.0245pt too high) has occurred while \output is active []
-
-
-[3]
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <11.5> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 198.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 220.
-
- (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-Overfull \vbox (2.0245pt too high) has occurred while \output is active []
-
-
-[4]
-Overfull \vbox (2.0245pt too high) has occurred while \output is active []
-
-
-[5]
-Overfull \vbox (2.0245pt too high) has occurred while \output is active []
-
-
-[6]
-Overfull \vbox (2.0245pt too high) has occurred while \output is active []
-
-
-[7]
-Overfull \vbox (2.0245pt too high) has occurred while \output is active []
-
-
-[8]
-Overfull \vbox (2.0245pt too high) has occurred while \output is active []
-
-
-[9] (./frontiers.bbl
-Overfull \vbox (2.0245pt too high) has occurred while \output is active []
-
-
-[10]
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-
-Overfull \vbox (2.0245pt too high) has occurred while \output is active []
-
-
-[11]) <figures/participants.pdf, id=320, 650.43pt x 505.89pt>
-File: figures/participants.pdf Graphic file (type pdf)
-
-<use figures/participants.pdf>
-Package pdftex.def Info: figures/participants.pdf used on input line 483.
-(pdftex.def)             Requested size: 252.0pt x 195.99947pt.
-
-<figures/trajectories.pdf, id=321, 561.09625pt x 393.47pt>
-File: figures/trajectories.pdf Graphic file (type pdf)
-
-<use figures/trajectories.pdf>
-Package pdftex.def Info: figures/trajectories.pdf used on input line 491.
-(pdftex.def)             Requested size: 378.0pt x 265.07045pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/stratGraphAll.pdf, id=322, 867.24pt x 505.89pt>
+
+Overfull \vbox (2.151pt too high) has occurred while \output is active []
+
+ [3]
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <11.5> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 193.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 215.
+
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Overfull \vbox (2.151pt too high) has occurred while \output is active []
+
+ [4]
+Overfull \vbox (2.151pt too high) has occurred while \output is active []
+
+ [5]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \vbox (2.151pt too high) has occurred while \output is active []
+
+ [6]
+Overfull \vbox (2.151pt too high) has occurred while \output is active []
+
+ [7]
+Overfull \vbox (2.151pt too high) has occurred while \output is active []
+
+ [8]
+Overfull \vbox (2.151pt too high) has occurred while \output is active []
+
+ [9]
+Overfull \vbox (2.151pt too high) has occurred while \output is active []
+
+ [10]
+(./frontiers.bbl
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Overfull \vbox (2.151pt too high) has occurred while \output is active []
+
+ [11])
+<figures/participants.pdf, id=309, 650.43pt x 505.89pt>
+File: figures/participants.pdf Graphic file (type pdf)
+
+<use figures/participants.pdf>
+Package pdftex.def Info: figures/participants.pdf used on input line 478.
+(pdftex.def)             Requested size: 252.0pt x 195.99947pt.
+
+<figures/trajectories.pdf, id=310, 561.09625pt x 393.47pt>
+File: figures/trajectories.pdf Graphic file (type pdf)
+
+<use figures/trajectories.pdf>
+Package pdftex.def Info: figures/trajectories.pdf used on input line 486.
+(pdftex.def)             Requested size: 378.0pt x 265.07045pt.
+
+Overfull \vbox (2.151pt too high) has occurred while \output is active []
+
+ [12 <./figures/participants.pdf>]
+<figures/stratGraphAll.pdf, id=326, 867.24pt x 505.89pt>
 File: figures/stratGraphAll.pdf Graphic file (type pdf)
 
 <use figures/stratGraphAll.pdf>
-Package pdftex.def Info: figures/stratGraphAll.pdf used on input line 499.
+Package pdftex.def Info: figures/stratGraphAll.pdf used on input line 494.
 (pdftex.def)             Requested size: 378.0pt x 220.50037pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/histOverview.pdf, id=323, 593.21625pt x 392.46625pt>
+<figures/histOverview.pdf, id=327, 593.21625pt x 392.46625pt>
 File: figures/histOverview.pdf Graphic file (type pdf)
 
 <use figures/histOverview.pdf>
-Package pdftex.def Info: figures/histOverview.pdf used on input line 509.
+Package pdftex.def Info: figures/histOverview.pdf used on input line 504.
 (pdftex.def)             Requested size: 378.0pt x 250.08762pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/odd_ratios.pdf, id=324, 487.8225pt x 438.63875pt>
+<figures/odd_ratios.pdf, id=328, 487.8225pt x 438.63875pt>
 File: figures/odd_ratios.pdf Graphic file (type pdf)
 
 <use figures/odd_ratios.pdf>
-Package pdftex.def Info: figures/odd_ratios.pdf used on input line 517.
+Package pdftex.def Info: figures/odd_ratios.pdf used on input line 512.
 (pdftex.def)             Requested size: 378.0pt x 339.89465pt.
 
-<figures/stratGraphNP.pdf, id=325, 1084.05pt x 433.62pt>
+<figures/stratGraphNP.pdf, id=329, 1084.05pt x 433.62pt>
 File: figures/stratGraphNP.pdf Graphic file (type pdf)
 
 <use figures/stratGraphNP.pdf>
-Package pdftex.def Info: figures/stratGraphNP.pdf used on input line 529.
+Package pdftex.def Info: figures/stratGraphNP.pdf used on input line 524.
 (pdftex.def)             Requested size: 378.0pt x 151.20026pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \vbox (2.0245pt too high) has occurred while \output is active []
+Overfull \vbox (2.151pt too high) has occurred while \output is active []
 
-
-[12 <./figures/participants.pdf>]
+ [13 <./figures/trajectories.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (2.0245pt too high) has occurred while \output is active []
+Overfull \vbox (2.151pt too high) has occurred while \output is active []
 
-
-[13 <./figures/trajectories.pdf>]
+ [14 <./figures/stratGraphAll.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (2.0245pt too high) has occurred while \output is active []
+Overfull \vbox (2.151pt too high) has occurred while \output is active []
 
-
-[14 <./figures/stratGraphAll.pdf>]
+ [15 <./figures/histOverview.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (2.0245pt too high) has occurred while \output is active []
+Overfull \vbox (2.151pt too high) has occurred while \output is active []
 
-
-[15 <./figures/histOverview.pdf>]
+ [16 <./figures/odd_ratios.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (2.0245pt too high) has occurred while \output is active []
+Overfull \vbox (2.151pt too high) has occurred while \output is active []
 
-
-[16 <./figures/odd_ratios.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (2.0245pt too high) has occurred while \output is active []
-
-
-[17 <./figures/stratGraphNP.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 541.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 541.
+ [17 <./figures/stratGraphNP.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 536.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 536.
  (./frontiers.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 541.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 541.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 536.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 536.
 Package rerunfilecheck Info: File `frontiers.out' has not changed.
 (rerunfilecheck)             Checksum: F9BFC5EC084B5CF053099E64BBFBC57F;1095.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 541.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 536.
  ) 
 Here is how much of TeX's memory you used:
- 10146 strings out of 493315
- 148830 string characters out of 6137904
- 279066 words of memory out of 5000000
- 13299 multiletter control sequences out of 15000+600000
- 38210 words of font info for 69 fonts, out of 8000000 for 9000
+ 10147 strings out of 493315
+ 148844 string characters out of 6137904
+ 281043 words of memory out of 5000000
+ 13300 multiletter control sequences out of 15000+600000
+ 38717 words of font info for 70 fonts, out of 8000000 for 9000
  961 hyphenation exceptions out of 8191
- 49i,16n,38p,1487b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,16n,38p,2025b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2013/texmf-dist/fonts/type1/public/dejavu/DejaVuSans.pfb></usr/local/tex
 live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texl
@@ -862,10 +843,10 @@ c/uhvro8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.
 pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
 local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/local/tex
 live/2013/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on frontiers.pdf (17 pages, 1781685 bytes).
+Output written on frontiers.pdf (17 pages, 1782960 bytes).
 PDF statistics:
- 666 PDF objects out of 1000 (max. 8388607)
- 534 compressed objects within 6 object streams
+ 656 PDF objects out of 1000 (max. 8388607)
+ 524 compressed objects within 6 object streams
  80 named destinations out of 1000 (max. 500000)
  172 words of extra memory for PDF output out of 10000 (max. 10000000)
 
